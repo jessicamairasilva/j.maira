@@ -1,9 +1,9 @@
 ### Olá! 🙋🏻‍♀️
 <br/>
-Eu sou a Jéssica Maira, tenho 30 anos, moro em Minas Gerais 🧀, sou formada em Gestão de Recursos Humanos , Marketing e atualmente cursando Analise e desenvolvimento de sistemas 📚 pela ***UFBRA***, estou em fase de transição de carreira para a tecnologia.
+Eu sou a Jéssica Maira, tenho 30 anos, moro em Minas Gerais 🧀, sou formada em Gestão de Recursos Humanos , Marketing e atualmente cursando Analise e desenvolvimento de sistemas 📚 pela **UFBRA**, estou em fase de transição de carreira para a tecnologia.
 <br/>
 
-Estou me especializando em ***HTML, JavaScript e CSS***, através da ***Alura*** entre outras instituições de ensino. Hoje a tecnologia envolve todos os setores, inclusive a área administrativa da empresa. Então nada mais sensato do que entender como posso auxiliar nesse desenvolvimento.
+Estou me especializando em **HTML, JavaScript e CSS**, através da **Alura** entre outras instituições de ensino. Hoje a tecnologia envolve todos os setores, inclusive a área administrativa da empresa. Então nada mais sensato do que entender como posso auxiliar nesse desenvolvimento.
 
 <br/>
 
