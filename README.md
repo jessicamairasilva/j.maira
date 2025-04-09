@@ -7,8 +7,8 @@ Estou me especializando em ***HTML, JavaScript e CSS***, através da ***Alura***
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://https://www.linkedin.com/feed/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://https://www.instagram.com/j.maira/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicamairasilva/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/j.maira/)
 <br/>
 ## Tecnologias que uso no meu dia a dia
 <br/>
