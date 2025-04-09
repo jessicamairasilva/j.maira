@@ -1,6 +1,6 @@
 ### Olá! 🙋🏻‍♀️
 <br/>
-Eu sou a Jéssica Maira, tenho 30 anos, moro em Minas Gerais 🧀, sou formada em Gestão de Recursos Humanos , Marketing e atualmente cursando Analise e desenvolvimento de sistemas 📚 pela **UFBRA** 
+Eu sou a Jéssica Maira, tenho 30 anos, moro em Minas Gerais 🧀, sou formada em Gestão de Recursos Humanos , Marketing e atualmente cursando Analise e desenvolvimento de sistemas 📚 pela UFBRA
 
 <br/>
 
